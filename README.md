@@ -1,0 +1,1 @@
+A simple website for mountain, cloud, and water body information.
